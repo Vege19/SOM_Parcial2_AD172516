@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <integer name="span_count">1</integer>
+</resources>
